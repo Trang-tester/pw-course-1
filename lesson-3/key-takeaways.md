@@ -110,7 +110,7 @@ __3. Logical operator__
 __4. Array__
 
 ● Tạo mảng
- -  Khai báo let/const [0,1,2,3] or let/const ["Trang", "Phương"]
+ -  Khai báo let/const [0,1,2,3] or let/const ["Trang", "Phương"]   
  - Sử dụng
 
 ● Truy xuất mảng
@@ -124,8 +124,8 @@ tên và có thể tái sử dụng, thực hiện
 1 nhiệm vụ hoặc 1 tính toán cụ thể.
 
     - Khai báo
-function <nameFunction>() {
+``function<nameFunction>() {
 // code
-}
+}``
     - Parameter
     - Return value
